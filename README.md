@@ -1,6 +1,6 @@
 ![G6vYqdLbEAAROIK](https://github.com/user-attachments/assets/096b7779-1514-4db9-98ad-b4a2f9dcc789)
 
-# Retro PCB Silk Screen Font (Late-80s Style)
+# Retro PCB Silk Screen Font
 
 This repository is for a custom font inspired by the silkscreen lettering on PCBs from the 80s to 90s.
 Designed to reproduce the characterstic rounded, minimal, industrial look.
