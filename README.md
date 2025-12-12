@@ -5,7 +5,8 @@
 This repository is for a custom font inspired by the silkscreen lettering on PCBs from the 80s to 90s.
 Designed to reproduce the characterstic rounded, minimal, industrial look.
 
-<img width="1641" height="471" alt="{0DF28AB6-2D1F-4116-9C74-4D7A522F8018}" src="https://github.com/user-attachments/assets/3591a083-15d4-4508-8346-c1488a48ffe7" />
+<img width="1151" height="354" alt="{6DE85F69-C0F3-4021-8A2D-51DAD6403E03}" src="https://github.com/user-attachments/assets/c4c25c0b-3dba-4e6a-b04d-1aa00acd1e2b" />
+
 
 
 ## License
